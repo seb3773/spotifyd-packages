@@ -65,5 +65,10 @@ just to be sure, let's create a symlink of this file to  ~/.config/spotifyd/ :
 ~/.config/spotifyd/
 sudo ln -s /etc/spotifyd.conf ~/.config/spotifyd/spotifyd.conf
 ```
-(this is because, for example, spotify-qt seems to check the ~/.config/spotifyd/ folder; but spotifyd is checking /etc/ folder for his config file...)
+(this is because, for example, spotify-qt seems to check the ~/.config/spotifyd/ folder; but spotifyd is checking /etc/ folder for his config file...)  
+  
+you can find full info on the config file here: https://docs.spotifyd.rs/config/File.html  
+  
++----+
+
   
