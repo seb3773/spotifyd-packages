@@ -7,7 +7,7 @@ Spotifyd also supports the Spotify Connect protocol, which makes it show up as a
 https://github.com/Spotifyd/spotifyd  
 +-------------------------------------------------  
 
-I builded these packages because they are not in debian 12 repository; and I don't want to use the infamous snap version. 
+I builded these packages because they are not in debian 12 repository.  
 x64,i386 & armhf packages provided.  
   
 # installation:  
